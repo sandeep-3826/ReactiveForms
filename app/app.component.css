@@ -1,0 +1,18 @@
+.jumbotron {
+    background-color: orange;
+    color: #fff;
+}
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+label {
+    color: orangered;
+}
+
+span {
+    color: red;
+    font-size: 15px;
+    font-weight: 700;
+}
